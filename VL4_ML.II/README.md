@@ -1,4 +1,4 @@
-Hier kommt der Link für die virtuelle Lehrveranstaltung am 13. Februar 2025:
+Hier kommt der Link für die virtuelle Lehrveranstaltung am **13. Februar 2025 um 15 Uhr**:
 
 
 [**Z👀M**](https://ufz-de.zoom-x.de/j/6950699109?pwd=Nk5vQkljZ2J6VFlFbXcvZGV6TXN2dz09&omn=63948103313)
