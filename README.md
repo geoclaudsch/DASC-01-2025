@@ -3,4 +3,4 @@ Die Ordnung der Materialien (Folien - passwortgeschützt, Aufgaben und Python-No
 
 **Claudia Schütze - Januar 2025**
 
-Info für virtuelle Veranstaltung am 13.02. --> [**hier!**](https://github.com/geoclaudsch/DASC-01-2025/blob/main/VL4_ML.II/README.md)
+Info für virtuelle Veranstaltung am 13.02. 15 Uhr --> [**hier!**](https://github.com/geoclaudsch/DASC-01-2025/blob/main/VL4_ML.II/README.md)
